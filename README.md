@@ -27,8 +27,6 @@
 - [SDWebImage](https://github.com/rs/SDWebImage)
 - [GPUImage](https://github.com/BradLarson/GPUImage)：实时照片和视频处理
 
-### Proxy (代理)
-
 ### View (视图)
 
 - [QuickDialog](https://github.com/escoz/QuickDialog)：帮助快速创建复杂表单
